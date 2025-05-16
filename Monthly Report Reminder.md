@@ -1,16 +1,3 @@
-# Powerautomate monthly report reminder
-
-
-
-
-
-
-
-
-
-
-
-```mermaid
 # PowerAutomate Script
 
 ### Flow diagram
