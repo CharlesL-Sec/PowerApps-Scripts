@@ -13,8 +13,8 @@ This command is used in a action step to remove the last ',' and append a '.'.
 - Use `concat` to append the .
 
 
-```javascript
-concat(substring(variables('teamMentionsVar'), 0, sub(variables('lengthOfteamMentionsVarInit'), 1)), '.')
+```javascript 
+  concat(substring(variables('teamMentionsVar'), 0, sub(variables('lengthOfteamMentionsVarInit'), 1)), '.')
 ```
 
 
