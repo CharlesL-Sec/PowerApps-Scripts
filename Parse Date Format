@@ -1,0 +1,4 @@
+## Using Parse date
+```powerautomate
+   parseDateTime(variables('nextFridayVar'),'en-GB')
+```
