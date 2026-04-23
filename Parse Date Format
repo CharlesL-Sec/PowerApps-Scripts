@@ -1,4 +1,4 @@
 ## Using Parse date
-```powerautomate
-   parseDateTime(variables('nextFridayVar'),'en-GB')
+```javascript
+  formatDateTime(variables('nextFridayVar'), 'yyyy-MM-ddT00:00:00Z')
 ```
